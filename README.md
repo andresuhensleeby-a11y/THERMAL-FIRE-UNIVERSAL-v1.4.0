@@ -1,2 +1,2 @@
-# THERMAL-FIRE-UNIVERSAL-v1.4.0
+Ryefire 
 Universal Android audio enhancement module magisk/kernelsu/apatch
